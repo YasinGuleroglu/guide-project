@@ -3,6 +3,9 @@
 **Guide** is a simple and elegant React-based contact management application that allows users to **add**, **edit**, and **delete** contact information. It is built using modern React practices and integrates with a local API (via JSON Server or mock REST endpoint) for data persistence.
 
 ---
+<img width="1428" alt="Image" src="https://github.com/user-attachments/assets/86b5e471-79d3-46dd-b2a8-8ee3fbd12408" />
+
+<img width="1428" alt="Image" src="https://github.com/user-attachments/assets/9efdd4ed-27a3-4ba8-bf7f-de644b2e56a8" />
 
 ## 🚀 Features
 
