@@ -1,0 +1,385 @@
+{
+  "contact": [
+    {
+      "name": "Yasin",
+      "surname": "Güleroğlu",
+      "company": "Comanchero",
+      "phone": "+90 551 346 3544",
+      "email": "yasin.guleroglu@gmail.com",
+      "position": "Ceo",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Emre",
+      "surname": "Kaya",
+      "company": "TechSoft",
+      "phone": "+90 532 123 4567",
+      "email": "emrekaya@gmail.com",
+      "position": "Backend Developer"
+    },
+    {
+      "id": 3,
+      "name": "Zeynep",
+      "surname": "Yılmaz",
+      "company": "CodeLab",
+      "phone": "+90 533 987 6543",
+      "email": "zeynepyilmaz@gmail.com",
+      "position": "Software Engineer"
+    },
+    {
+      "id": 4,
+      "name": "Mehmet",
+      "surname": "Arslan",
+      "company": "InnovateX",
+      "phone": "+90 534 876 5432",
+      "email": "mehmetarslan@gmail.com",
+      "position": "Product Manager"
+    },
+    {
+      "id": 5,
+      "name": "Elif",
+      "surname": "Demir",
+      "company": "SoftTech",
+      "phone": "+90 535 765 4321",
+      "email": "elifdemir@gmail.com",
+      "position": "UI/UX Designer"
+    },
+    {
+      "id": 6,
+      "name": "Ahmet",
+      "surname": "Çelik",
+      "company": "NextGen",
+      "phone": "+90 536 654 3210",
+      "email": "ahmetcelik@gmail.com",
+      "position": "DevOps Engineer"
+    },
+    {
+      "id": 7,
+      "name": "Burak",
+      "surname": "Şahin",
+      "company": "CyberLabs",
+      "phone": "+90 537 543 2109",
+      "email": "buraksahin@gmail.com",
+      "position": "Cybersecurity Specialist"
+    },
+    {
+      "id": 8,
+      "name": "Ayşe",
+      "surname": "Koç",
+      "company": "DataWave",
+      "phone": "+90 538 432 1098",
+      "email": "aysekoc@gmail.com",
+      "position": "Data Analyst"
+    },
+    {
+      "id": 9,
+      "name": "Kerem",
+      "surname": "Taş",
+      "company": "CloudNet",
+      "phone": "+90 539 321 0987",
+      "email": "keremtas@gmail.com",
+      "position": "Cloud Architect"
+    },
+    {
+      "id": 10,
+      "name": "Fatma",
+      "surname": "Öztürk",
+      "company": "AI Solutions",
+      "phone": "+90 540 210 9876",
+      "email": "fatmaozturk@gmail.com",
+      "position": "Machine Learning Engineer"
+    },
+    {
+      "id": 11,
+      "name": "Mustafa",
+      "surname": "Bülbül",
+      "company": "DeepMind",
+      "phone": "+90 541 109 8765",
+      "email": "mustafabulbul@gmail.com",
+      "position": "AI Research Scientist"
+    },
+    {
+      "id": 12,
+      "name": "Seda",
+      "surname": "Kurt",
+      "company": "CodeWave",
+      "phone": "+90 542 098 7654",
+      "email": "sedakurt@gmail.com",
+      "position": "Full Stack Developer"
+    },
+    {
+      "id": 13,
+      "name": "Hakan",
+      "surname": "Güneş",
+      "company": "QuantumTech",
+      "phone": "+90 543 987 6543",
+      "email": "hakangunes@gmail.com",
+      "position": "Quantum Computing Specialist"
+    },
+    {
+      "id": 14,
+      "name": "Buse",
+      "surname": "Ekinci",
+      "company": "NextEra",
+      "phone": "+90 544 876 5432",
+      "email": "buseekinci@gmail.com",
+      "position": "Mobile Developer"
+    },
+    {
+      "id": 15,
+      "name": "Can",
+      "surname": "Yücel",
+      "company": "NeuralWorks",
+      "phone": "+90 545 765 4321",
+      "email": "canyucel@gmail.com",
+      "position": "Neural Network Engineer"
+    },
+    {
+      "id": 16,
+      "name": "Melike",
+      "surname": "Altın",
+      "company": "ByteLogic",
+      "phone": "+90 546 654 3210",
+      "email": "melikealtin@gmail.com",
+      "position": "Systems Analyst"
+    },
+    {
+      "id": 18,
+      "name": "Gizem",
+      "surname": "Özkan",
+      "company": "DataFlow",
+      "phone": "+90 548 432 1098",
+      "email": "gizemozkan@gmail.com",
+      "position": "Business Intelligence Analyst"
+    },
+    {
+      "id": 19,
+      "name": "Okan",
+      "surname": "Akın",
+      "company": "AI Vision",
+      "phone": "+90 549 321 0987",
+      "email": "okanakin@gmail.com",
+      "position": "Computer Vision Engineer"
+    },
+    {
+      "id": 20,
+      "name": "Sinem",
+      "surname": "Yıldırım",
+      "company": "TechNova",
+      "phone": "+90 550 210 9876",
+      "email": "sinemyildirim@gmail.com",
+      "position": "QA Engineer"
+    },
+    {
+      "id": 22,
+      "name": "Arda",
+      "surname": "Soylu",
+      "phone": "+90 532 123 4567",
+      "email": "arda.soylu@example.com",
+      "position": "Software Developer"
+    },
+    {
+      "id": 23,
+      "name": "Nisa",
+      "surname": "Taş",
+      "phone": "+90 530 234 5678",
+      "email": "nisa.tas@example.com",
+      "position": "UI Designer"
+    },
+    {
+      "id": 25,
+      "name": "Sena",
+      "surname": "Kurtuluş",
+      "phone": "+90 545 321 6789",
+      "email": "sena.kurtulus@example.com",
+      "position": "Frontend Developer"
+    },
+    {
+      "id": 26,
+      "name": "Umut",
+      "surname": "Akçay",
+      "phone": "+90 536 987 1234",
+      "email": "umut.akcay@example.com",
+      "position": "Backend Developer"
+    },
+    {
+      "id": 27,
+      "name": "Melike",
+      "surname": "Bayraktar",
+      "phone": "+90 552 444 1122",
+      "email": "melike.bayraktar@example.com",
+      "position": "Graphic Designer"
+    },
+    {
+      "id": 28,
+      "name": "Okan",
+      "surname": "Yavuz",
+      "phone": "+90 538 111 2233",
+      "email": "okan.yavuz@example.com",
+      "position": "Mobile Developer"
+    },
+    {
+      "id": 29,
+      "name": "Dilara",
+      "surname": "Koç",
+      "phone": "+90 531 654 9870",
+      "email": "dilara.koc@example.com",
+      "position": "Marketing Manager"
+    },
+    {
+      "id": 30,
+      "name": "Yunus",
+      "surname": "Karaman",
+      "phone": "+90 533 789 4561",
+      "email": "yunus.karaman@example.com",
+      "position": "SEO Specialist"
+    },
+    {
+      "id": 31,
+      "name": "Derya",
+      "surname": "Güneş",
+      "phone": "+90 544 987 3210",
+      "email": "derya.gunes@example.com",
+      "position": "Human Resources"
+    },
+    {
+      "id": 32,
+      "name": "Berk",
+      "surname": "Çetin",
+      "phone": "+90 537 147 2589",
+      "email": "berk.cetin@example.com",
+      "position": "Business Analyst"
+    },
+    {
+      "id": 33,
+      "name": "İlayda",
+      "surname": "Demirtaş",
+      "phone": "+90 550 963 7412",
+      "email": "ilayda.demirtas@example.com",
+      "position": "UI/UX Designer"
+    },
+    {
+      "id": 34,
+      "name": "Mert",
+      "surname": "Altun",
+      "phone": "+90 546 741 2583",
+      "email": "mert.altun@example.com",
+      "position": "Cloud Engineer"
+    },
+    {
+      "id": 35,
+      "name": "Sevgi",
+      "surname": "Özer",
+      "phone": "+90 530 111 8899",
+      "email": "sevgi.ozer@example.com",
+      "position": "QA Tester"
+    },
+    {
+      "id": 36,
+      "name": "Tuna",
+      "surname": "Polat",
+      "phone": "+90 532 369 1478",
+      "email": "tuna.polat@example.com",
+      "position": "Data Scientist"
+    },
+    {
+      "id": 37,
+      "name": "Beril",
+      "surname": "Kavak",
+      "phone": "+90 539 258 7413",
+      "email": "beril.kavak@example.com",
+      "position": "Social Media Specialist"
+    },
+    {
+      "id": 38,
+      "name": "Kerim",
+      "surname": "Aslanoğlu",
+      "phone": "+90 534 111 4466",
+      "email": "kerim.aslanoglu@example.com",
+      "position": "Team Lead"
+    },
+    {
+      "id": 39,
+      "name": "Gül",
+      "surname": "Çalışkan",
+      "phone": "+90 548 555 7788",
+      "email": "gul.caliskan@example.com",
+      "position": "Product Manager"
+    },
+    {
+      "id": 40,
+      "name": "Ömer",
+      "surname": "Sarı",
+      "phone": "+90 536 852 9630",
+      "email": "omer.sari@example.com",
+      "position": "Security Analyst"
+    },
+    {
+      "id": 41,
+      "name": "Naz",
+      "surname": "Şen",
+      "phone": "+90 531 741 9630",
+      "email": "naz.sen@example.com",
+      "position": "Content Writer"
+    },
+    {
+      "id": 42, "name": "Betül", "surname": "Yaman", "phone": "+90 531 222 7788", "email": "betul.yaman@example.com", "position": "CRM Specialist"
+    },
+    {
+      "id": 43, "name": "Furkan", "surname": "Keskin", "phone": "+90 533 654 1234", "email": "furkan.keskin@example.com", "position": "Technical Support"
+    },
+    {
+      "id": 44, "name": "Aslı", "surname": "Koşar", "phone": "+90 532 777 8899", "email": "asli.kosar@example.com", "position": "Quality Engineer"
+    },
+    {
+      "id": 45, "name": "Hüseyin", "surname": "Karadağ", "phone": "+90 530 999 1122", "email": "huseyin.karadag@example.com", "position": "Database Administrator"
+    },
+    {
+      "id": 46, "name": "Mina", "surname": "Türkmen", "phone": "+90 535 333 6677", "email": "mina.turkmen@example.com", "position": "Sales Specialist"
+    },
+    {
+      "id": 47, "name": "Tolga", "surname": "Korkmaz", "phone": "+90 534 222 5566", "email": "tolga.korkmaz@example.com", "position": "IT Consultant"
+    },
+    {
+      "id": 48, "name": "Zehra", "surname": "Demirci", "phone": "+90 531 456 7890", "email": "zehra.demirci@example.com", "position": "Scrum Master"
+    },
+    {
+      "id": 49, "name": "Kaan", "surname": "Özkaya", "phone": "+90 548 111 3344", "email": "kaan.ozkaya@example.com", "position": "Mobile App Tester"
+    },
+    {
+      "id": 50, "name": "Cansu", "surname": "Altuntaş", "phone": "+90 536 741 2580", "email": "cansu.altuntas@example.com", "position": "Digital Marketing Specialist"
+    },
+    {
+      "id": 51, "name": "Barış", "surname": "Görür", "phone": "+90 550 888 4411", "email": "baris.gorur@example.com", "position": "Cloud Systems Engineer"
+    },
+    {
+      "id": 52, "name": "Neşe", "surname": "Er", "phone": "+90 530 159 3579", "email": "nese.er@example.com", "position": "IT Project Coordinator"
+    },
+    {
+      "id": 53, "name": "Oğuz", "surname": "Başaran", "phone": "+90 532 123 1478", "email": "oguz.basaran@example.com", "position": "Software Tester"
+    },
+    {
+      "id": 54, "name": "Gizem", "surname": "Kaplan", "phone": "+90 537 963 7410", "email": "gizem.kaplan@example.com", "position": "UX Researcher"
+    },
+    {
+      "id": 55, "name": "Mustafa", "surname": "Sert", "phone": "+90 533 321 9630", "email": "mustafa.sert@example.com", "position": "Machine Learning Engineer"
+    },
+    {
+      "id": 56, "name": "Selda", "surname": "Özçelik", "phone": "+90 536 741 9512", "email": "selda.ozcelik@example.com", "position": "IT Auditor"
+    },
+    {
+      "id": 57, "name": "Enes", "surname": "Bozkurt", "phone": "+90 548 753 1596", "email": "enes.bozkurt@example.com", "position": "Tech Support Specialist"
+    },
+    {
+      "id": 58, "name": "Perihan", "surname": "Uslu", "phone": "+90 530 951 2587", "email": "perihan.uslu@example.com", "position": "Web Designer"
+    },
+    {
+      "id": 59, "name": "Eray", "surname": "Erdoğan", "phone": "+90 531 111 2233", "email": "eray.erdogan@example.com", "position": "Game Developer"
+    },
+    {
+      "id": 60, "name": "Şeyma", "surname": "Çakır", "phone": "+90 532 444 5566", "email": "seyma.cakir@example.com", "position": "Operations Manager"
+    }
+    
+  ]
+}
